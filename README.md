@@ -8,18 +8,31 @@ After done the analysis here is the result :
 ## Conclusion 
 
 1. Recommended location to place police stations as follow : 
+
 District A1 = Police station should be placed at ['Washington St', 'Tremont St', 'Boylston St', 'Atlantic Ave'] with 377 police officers stand by and supervised by 16 lieutenants
+
 District A15 = Police station should be placed at ['Bunker Hill St'] with 70 police officers stand by and supervised by 3 lieutenants
+
 District A7 = Police station should be placed at ['Border St', 'Bennington St'] with 145 police officers stand by and supervised by 6 lieutenants
+
 District B2 = Police station should be placed at ['Blue Hill Ave', 'Washington St', 'Dudley St', 'Columbia Rd', 'Warren St', 'Tremont St'] with 526 police officers stand by and supervised by 22 lieutenants
+
 District B3 = Police station should be placed at ['Blue Hill Ave', 'River St', 'Norfolk St', 'Morton St'] with 377 police officers stand by and supervised by 16 lieutenants
+
 District C11 = Police station should be placed at ['Dorchester Ave', 'Washington St', 'Adams St', 'Geneva Ave', 'Bowdoin St'] with 452 police officers stand by and supervised by 19 lieutenants
+
 District C6 = Police station should be placed at ['Massachusetts Ave', 'W Broadway', 'Allstate Rd'] with 247 police officers stand by and supervised by 10 lieutenants
+
 District D14 = Police station should be placed at ['Commonwealth Ave', 'Washington St', 'Cambridge St'] with 215 police officers stand by and supervised by 9 lieutenants
+
 District D4 = Police station should be placed at ['Boylston St', 'Harrison Ave', 'Massachusetts Ave', 'Huntington Ave', 'Newbury St'] with 447 police officers stand by and supervised by 18 lieutenants
+
 District E13 = Police station should be placed at ['Centre St', 'Washington St'] with 187 police officers stand by and supervised by 8 lieutenants
+
 District E18 = Police station should be placed at ['Hyde Park Ave', 'River St'] with 185 police officers stand by and supervised by 8 lieutenants
+
 District E5 = Police station should be placed at ['Washington St', 'Centre St'] with 142 police officers stand by and supervised by 6 lieutenants 
+
 2. Crime in Boston is increasing from 2015 in general.
 3. 'UCR Part 3' is the most rated crimes that is occurred between 2015 - 2018.
 4. District with the most crimes are B2,C11,D4 between 2015 - 2018.
